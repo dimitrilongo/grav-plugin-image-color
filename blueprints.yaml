@@ -1,0 +1,14 @@
+name: Image Color
+version: '1.0.0'
+description: The Grav Image Color Plugin for Grav adds the ability to get the dominant color from an image. You can generate a color palette from an image.
+icon: paint-brush
+author:
+  name: Dimitri Longo
+  email: dimitri.longo@elanathemes.fr
+  url: https://github.com/dimitrilongo/grav-plugin-image-color
+homepage: https://github.com/dimitrilongo/grav-plugin-image-color
+bugs: https://github.com/dimitrilongo/grav-plugin-image-color/issues
+docs: https://github.com/dimitrilongo/grav-plugin-image-color/blob/master/README.md
+keywords: [color, grav, plugin, image, palette]
+readme: https://github.com/dimitrilongo/grav-plugin-image-color/blob/master/README.md
+license: MIT
